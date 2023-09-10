@@ -1,0 +1,1 @@
+Some JavaScript solutions for Codewars if you wanna explanation of some hard challenges. Just look in directory of you kyu
