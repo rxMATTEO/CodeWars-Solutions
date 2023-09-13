@@ -1,4 +1,5 @@
-export function sumOfIntervals(intervals) {
+"use strict";
+function sumOfIntervals(intervals) {
     let mergedIntervals = [];
     intervals.sort((a, b) => a[0] - b[0]);
     mergedIntervals.push(intervals[0]);
