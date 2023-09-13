@@ -11,3 +11,5 @@
 You're always improving your JavaScript or Typescript skills and like solving challenges like me? You probably whenever stuck on one challenge.
 
 If you tired and just wanna points - checkout this repository. Over 55 solutions from 8 to 3 kyu.
+
+If there is a TypeScript solution, it's probably a JavaScript solution in that folder with same name.
