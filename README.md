@@ -5,6 +5,7 @@
 </h2>
 </div>
 
+![](https://www.codewars.com/users/rxMATTE0/badges/large)
 
 ### Welcome to Codewars solutions!
 
@@ -13,3 +14,17 @@ You're always improving your JavaScript or Typescript skills and like solving ch
 If you tired and just wanna points - checkout this repository. Over 55 solutions from 8 to 3 kyu.
 
 If there is a TypeScript solution, it's probably a JavaScript solution in that folder with same name.
+
+> Practice makes perfect
+
+* 🎨 Algorithms and the best practises
+* ✨ More simple code
+* :bagel: Typescript & Javascript practise
+
+### Getting Started
+
+```bash
+git clone https://github.com/rxMATTEO/Codewars-Solutions.git
+cd javascript
+npm install
+```
