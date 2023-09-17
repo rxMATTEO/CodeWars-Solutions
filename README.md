@@ -25,6 +25,6 @@ If there is a TypeScript solution, it's probably a JavaScript solution in that f
 
 ```bash
 git clone https://github.com/rxMATTEO/Codewars-Solutions.git
-cd javascript
 npm install
+cd javascript
 ```
