@@ -1,8 +1,9 @@
 "use strict";
 function number(busStops) {
-    return busStops.reduce((previousValue, currentValue) => {
-        return [currentValue[0], previousValue[0] - previousValue[1]];
-    })[1];
+    return busStops.reduce((previousValue, currentValue, currentIndex) => {
+        if (currentIndex === 0)
+            return currentValue;
+        return [previousValue[0] + currentValue[0] - currentValue[1], 0];
+    }, busStops[0])[0];
 }
-console.log(number([[10, 0], [3, 5], [5, 8]]));
 //# sourceMappingURL=NumberOfPeopleInTheBus.js.map
